@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Portfolio Page
 
-[Link to my portfolio page built on React]:(http://vast-thicket-06010.herokuapp.com/) 
+React [Link to my portfolio page built on React]:(http://vast-thicket-06010.herokuapp.com/) 
